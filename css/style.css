@@ -192,10 +192,22 @@ body {
 			max-width: 150px;
 			margin: 0 auto 50px;
 		}
-		.footer-container {
-		background-color:rgba(223, 243, 227, 0.582);
-		background-image: url(../img/rockstar.jpg) 1 1 /cover no-repeat;
+		.footer-container2 {
+			min-height: 400px;
+			max-width: 2500px;
+			margin: 0 auto;
+			padding: 50px;
+			background-image: linear-gradient(to bottom, #716cf9 0%,#f6f92a 59%,#f6f92a 59%,#f6f92a 81%,#f6f92a 81%,#f7f716 100%,#f6f92a 100%); 
 		}
+		.footer-container3 {
+			min-height: 1500px;
+			max-width: 2500px;
+			margin: 0 auto;
+			padding: 50px;
+			color: #ffffff;
+			background: url(../img/rockstar.jpg) fixed no-repeat center / 1000px, url(../img/home/01.png) no-repeat 0 bottom / contain, linear-gradient(to bottom, #716cf9 0%,#f6f92a 59%,#f6f92a 59%,#f6f92a 81%,#f6f92a 81%,#f7f716 100%,#f6f92a 100%);
+		}
+
 
 
 
