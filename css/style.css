@@ -9,7 +9,6 @@
 	font-weight: 400;
 	font-style: normal;
 }
-
 @font-face {
 	font-family: "CircularStd";
 	src: url("../fonts/CircularStd-Medium.woff2") format("woff2"), url("../fonts/CircularStd-Medium.woff") format("woff");
@@ -95,7 +94,7 @@ body {
 	}
 
 	.block4 {
-		margin-bottom: 24px;;
+		margin-bottom: 24px;
 	}
 
 	.block5 {
