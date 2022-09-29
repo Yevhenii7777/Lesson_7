@@ -92,13 +92,13 @@ body {
 	}
 
 	.block5 {
-		padding-left: 32px;
 		margin-bottom: 24px;
 	}
 	
-	li {
+	.block5 li {
 		width: auto;
 		margin: 0 auto 4px;
+		padding-left: 32px;
 	}
 	
 	.block6 {
